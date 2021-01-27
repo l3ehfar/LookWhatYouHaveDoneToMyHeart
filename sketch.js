@@ -43,7 +43,7 @@ function draw() {
 }if(counter>207000){
   amp2 = map(level, 0, 0.5, amp, amp*5);
   amp4 = map(level, 0, 0.5, amp, amp*2);
-}if(counter>247000){
+}if(counter>248000){
   amp4 = map(level, 0, 0.5, amp, amp*5);
   amp3 = map(level,0,1, amp, amp*5);
 }if(counter>303000){
